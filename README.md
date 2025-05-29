@@ -60,6 +60,11 @@
       <td>Creates and verifies tokens, encodes information in JWT format, and enables secure communication between different JavaScript-based systems. You can use <a href="https://jwt.io/">jwt.io</a> to decode, verify, and debug JWT tokens online.</td>
     </tr>
     <tr>
+      <td>Mjml</td>
+      <td><a href="https://www.npmjs.com/package/mjml">mjml</a></td>
+      <td>Framework for creating responsive email templates using a simple markup language that compiles to HTML.</td>
+    </tr>
+    <tr>
       <td>Mongoose</td>
       <td><a href="https://www.npmjs.com/package/mongoose">mongoose</a></td>
       <td>Library to connect to a MongoDB database with the necessary methods to perform various operations on collections and documents.</td>
@@ -108,6 +113,11 @@
       <td>Winston</td>
       <td><a href="https://www.npmjs.com/package/winston">winston</a></td>
       <td>Logging library for Node.js that allows you to record messages to different outputs (console, files, etc.) with customizable formats and log levels.</td>
+    </tr>
+    <tr>
+      <td>Yup</td>
+      <td><a href="https://www.npmjs.com/package/yup">yup</a></td>
+      <td>Schema-based validator for objects, useful for validating request data.</td>
     </tr>
   </tbody>
 </table>
