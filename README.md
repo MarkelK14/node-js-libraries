@@ -55,6 +55,11 @@
       <td>Creation and execution of unit tests within a JavaScript project.</td>
     </tr>
     <tr>
+      <td>Jimp</td>
+      <td><a href="https://www.npmjs.com/package/jimp">jimp</a></td>
+      <td>Image processing library that allows you to read, manipulate, and write images with no external dependencies.</td>
+    </tr>
+    <tr>
       <td>JsonWebToken</td>
       <td><a href="https://www.npmjs.com/package/jsonwebtoken">jsonwebtoken</a></td>
       <td>Creates and verifies tokens, encodes information in JWT format, and enables secure communication between different JavaScript-based systems. You can use <a href="https://jwt.io/">jwt.io</a> to decode, verify, and debug JWT tokens online.</td>
