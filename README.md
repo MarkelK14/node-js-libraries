@@ -100,6 +100,11 @@
       <td>Tool to automatically restart the application when it detects code changes.</td>
     </tr>
     <tr>
+      <td><a href="https://www.npmjs.com/package/openai">OpenAI</a></td>
+      <td><code>npm i openai</code></td>
+      <td>Official library to interact with OpenAI's API, enabling integration of AI models.</td>
+    </tr>
+    <tr>
       <td><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></td>
       <td><code>npm i sequelize</code></td>
       <td>ORM for SQL databases (MySQL, PostgreSQL, etc.) that simplifies the creation and management of models.</td>
