@@ -50,6 +50,11 @@
       <td>Extension of Node.js's <code>fs</code> module with additional functions, such as copying or deleting directories recursively.</td>
     </tr>
     <tr>
+      <td><a href="https://www.npmjs.com/package/google-tts-api">Google-tts-api</a></td>
+      <td><code>npm i google-tts-api</code></td>
+      <td>Text-to-Speech API for Node.js that uses Google Translate's TTS service to generate audio from text in multiple languages.</td>
+    </tr>
+    <tr>
       <td><a href="https://www.npmjs.com/package/jest">Jest</a></td>
       <td><code>npm i jest</code></td>
       <td>Creation and execution of unit tests within a JavaScript project.</td>
@@ -102,7 +107,7 @@
     <tr>
       <td><a href="https://www.npmjs.com/package/openai">OpenAI</a></td>
       <td><code>npm i openai</code></td>
-      <td>Official library to interact with OpenAI's API, enabling integration of AI models.</td>
+      <td>Official library to interact with OpenAI's API, enabling integration of AI models like GPT and DALL·E in Node.js applications.</td>
     </tr>
     <tr>
       <td><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></td>
